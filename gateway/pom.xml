@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>br.com.lucchetta.alura_food</groupId>
 	<artifactId>gateway</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>1.0.0</version>
         <name>gateway</name>
         <description>API Gateway para o Alura Food</description>
         <properties>
