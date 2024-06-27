@@ -27,7 +27,13 @@ O projeto foi desenvolvido utilizando:
 - Lombok
 - Docker
 
-## Operacoes
+## Instalação
+### Docker
+
+No terminal, vá até a pasta `server/` e execute o comando `docker compose up`
+Feito isso, será possível acessar a página do `Eureka Server` (`http://localhost:8081`).
+
+## Operações
 Para usar a API, a URL base é `http://localhost:8082/` (porta do `gateway`)
 
 Para os endpoints de pedidos, use o path `pedidos-ms/`:
