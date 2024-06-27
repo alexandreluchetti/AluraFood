@@ -30,8 +30,8 @@ O projeto foi desenvolvido utilizando:
 ## Instalação
 ### Docker
 
-No terminal, vá até a pasta `server/` e execute o comando `docker compose up`
-Feito isso, será possível acessar a página do `Eureka Server` (`http://localhost:8081`).
+No terminal, vá até a pasta `server/` e execute o comando `docker compose up`.
+Feito isso, será possível acessar a página do `Eureka Server` (`http://localhost:8081`) e todas as operações estarão disponíveis.
 
 ## Operações
 Para usar a API, a URL base é `http://localhost:8082/` (porta do `gateway`)
