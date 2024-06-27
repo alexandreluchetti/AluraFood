@@ -30,7 +30,7 @@ O projeto foi desenvolvido utilizando:
 ## Instalação
 ### Docker
 
-Na pasta raiz do projeto, execute o comando `docker compose up`.
+Clone o projeto no local que escolher `git clone https://github.com/alexandreluchetti/AluraFood.git`. No diretório escolhido execute o comando `docker compose up`.
 
 - Eureka Server `http://localhost:8081`
 - Operações de pedidos `http://localhost:8082/pedidos-ms/`
