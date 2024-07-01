@@ -25,7 +25,7 @@ O projeto foi desenvolvido utilizando:
 - Spring Boot
 - Spring MVC
 - Lombok
-- Rabbit MQ
+- RabbitMQ
 - Docker
 
 ## Instalação
